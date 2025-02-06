@@ -21,5 +21,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihir-vaniya-40344125a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mihirvaniya11@gmail.com) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mihirvaniya07&show_icons=true&locale=en" alt="mihirvaniya07" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirvaniya07&" alt="mihirvaniya07" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirvaniya07&" alt="mihirvaniya07" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirvaniya07&show_icons=true&locale=en&layout=compact" alt="mihirvaniya07" /></p>
